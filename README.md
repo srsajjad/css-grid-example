@@ -4,5 +4,5 @@
 
 ------
 
-## [Demo ( another )](https://jsfiddle.net/9jvwvuyk/)
+## [Demo (another)](https://jsfiddle.net/9jvwvuyk/)
 
